@@ -39,3 +39,4 @@ of which we'll use later.
 </details>
 
 [0]: https://gn.googlesource.com/gn/+/main/docs/reference.md#func_static_library
+
